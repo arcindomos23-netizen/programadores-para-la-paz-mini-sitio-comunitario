@@ -1,0 +1,110 @@
+Calendario editorial de 2 semanas – Clase 21
+
+Nombre del estudiante:Arcindo Mosquera
+Fecha:30/06/2026
+Nombre de la rama:arcindo_mosquera
+
+Tema general de la campaña comunitaria:
+
+Respuesta:
+
+Pieza 1
+
+Semana:1
+Día:Lunes
+Fecha: Pendiente por definir
+Tema: Verificación de información
+Tipo de pieza: Aviso
+Pieza: Aviso de verificación
+Canal: Moodle o red comunitaria
+Público objetivo: comunidad general
+Propósito: Prevenir la circulación de información no verificada.
+Tono: preventivo
+Llamado a la acción: Verifica la fuente antes de compartir.
+Fuente: Canal institucional comunitario
+Responsable: Equipo de comunicaciones
+Observaciones: Revisar fecha y fuente antes de publicar.
+Pieza 2
+
+Semana:1
+Día: Miercoles
+Fecha: Pendiente por definir
+Tema: Convivencia digital
+Tipo de pieza: Mensaje pedagógico
+Pieza: Mensaje de convivencia digital
+Canal: Grupo comunitario
+Público objetivo: jóvenes participantes
+Propósito: Promover participación respetuosa en espacios digitales.
+Tono: pedagogico
+Llamado a la acción: Participa con respeto y evita ataques personales.
+Fuente: Equipo de comunicaciones
+Responsable: Equipo de comunicaciones
+Observaciones: Evitar lenguaje acusatorio o estigmatizante.
+
+Pieza 3
+
+Semana:1
+Día:Viernes
+Fecha: Pendiente por definir
+Tema: Participación ciudadana
+Tipo de pieza: Convocatoria
+Pieza: Convocatoria a propuestas
+Canal: Mini-sitio comunitario
+Público objetivo: comunidad general
+Propósito: Invitar a la comunidad a enviar propuestas claras.
+Tono: convocante
+Llamado a la acción: Envía una propuesta clara y con propósito comunitario.
+Fuente: Formulario comunitario
+Responsable: Docentes de comunicaciones
+Observaciones: Aclarar que las propuestas tendrán revisión editorial.
+
+Pieza 4
+
+Semana:2
+Día:Lunes
+Fecha: Pendiente por definir
+Tema: Participación ciudadana
+Tipo de pieza: Convocatoria
+Pieza: Convocatoria a propuestas
+Canal: Mini-sitio comunitario
+Público objetivo: comunidad general
+Propósito: Invitar a la comunidad a enviar propuestas claras.
+Tono: convocante
+Llamado a la acción: Envía una propuesta clara y con propósito comunitario.
+Fuente: Formulario comunitario
+Responsable: Docentes de comunicaciones
+Observaciones: Aclarar que las propuestas tendrán revisión editorial.
+
+Pieza 5
+
+Semana:2
+Día: Miercoles
+FFecha: Pendiente por definir
+Tema: Lenguaje responsable
+Tipo de pieza: Recordatorio
+Pieza: Recordatorio de lenguaje responsable
+Canal: Red comunitaria
+Público objetivo: jóvenes participantes
+Propósito: Reforzar criterios de lenguaje responsable y no estigmatizante.
+Tono: pedagogico
+Llamado a la acción: Evita mensajes ofensivos o estigmatizantes.
+Fuente: Reglas editoriales mínimas
+Responsable: Docentes de comunicaciones
+Observaciones: Incluir ejemplo de redacción adecuada.
+
+Pieza 6
+
+Semana:2
+Día: viernes
+Fecha: Pendiente por definir
+Tema: Cierre de difusión responsable
+Tipo de pieza: Balance
+Pieza: Cierre de difusión responsable
+Canal: Moodle o mini-sitio
+Público objetivo: comunidad general
+Propósito: Cerrar la campaña y recoger aprendizajes.
+Tono: informativo
+Llamado a la acción: Consulta el balance y propone mejoras.
+Fuente: Equipo de seguimiento
+Responsable: Equipo docente
+Observaciones: Revisar consistencia con piezas anteriores.

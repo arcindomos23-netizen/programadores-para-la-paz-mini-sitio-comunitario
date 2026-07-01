@@ -1,0 +1,56 @@
+Conceptos básicos de async y await – Clase 21
+
+Nombre del estudiante:Arcindo Mosquera
+Fecha:30/06/2026
+Nombre de la rama:arcindo_mosquera
+
+Responde con tus propias palabras.
+
+1. ¿Qué es una promesa en JavaScript?
+
+Respuesta:Es un objeto que representa un valor que aún no conocemos 
+(porque se está descargando del servidor), pero que promete darnos un
+ resultado en el futuro: ya sea exitoso (cumplida) o con un error (rechazada).
+
+2. ¿Qué significa async?
+
+Respuesta:Es una palabra clave que se coloca antes de una función para
+ indicar que dicha función será asíncrona, permitiéndole esperar respuestas 
+ del servidor sin congelar o detener el resto del programa.
+
+3. ¿Qué significa await?
+
+Respuesta: Es una función que detiene la ejución del código mientra se espera el resultado de una promes
+
+4. ¿Por qué fetch devuelve una promesa?
+
+Respuesta: Porque consultar datos de un servidor puede tardal un poco.
+
+5. ¿Qué diferencia viste entre .then() y async/await?
+
+Respuesta:.then() utiliza funciones de callback encadenadas que pueden volverse difíciles de leer (callback hell),
+ mientras que async/await permite escribir y leer el código asíncrono de forma lineal y ordenada, como si fuera código 
+ síncrono tradicional.
+
+6. ¿Qué hace try en esta práctica?
+
+Respuesta:Define un bloque de código en el que se intenta realizar la consulta a la API (como el fetch de mensajes o calendario) 
+para ver si funciona correctamente.
+
+7. ¿Qué hace catch en esta práctica?
+
+Respuesta:Define un bloque de código que se ejecuta únicamente si ocurre un error dentro del bloque try (por ejemplo,
+ si el servidor está caído o no hay internet), capturando el fallo para evitar que el programa se rompa.
+
+8. ¿Qué ruta se usa para cargar mensajes?
+
+Respuesta:GET /api/mensajes
+
+9. ¿Qué ruta se usa para cargar calendario editorial?
+
+Respuesta:GET /api/calendario
+
+10. ¿Cómo ayuda async y await a leer mejor el código?
+
+Respuesta:Evita el uso excesivo de funciones anidadas y llaves complejas. Al leerse de arriba hacia abajo de forma secuencial 
+y limpia, hace que entender el flujo de las peticiones a la API sea mucho más intuitivo para cualquier programador.

@@ -1,0 +1,41 @@
+Reflexión sobre mini-sitio comunitario – Clase 21
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Escribe una reflexión de 8 a 10 líneas respondiendo:
+
+¿Por qué un mini-sitio que consume una API puede ayudar a una comunidad a difundir información de forma responsable, organizada y verificable?
+
+En tu respuesta menciona al menos cinco de estas ideas:
+
+- proyecto único en GitHub
+- rama main
+- rama personal
+- git pull origin main
+- fast-forward
+- async
+- await
+- fetch
+- API
+- JSON
+- difusión responsable
+- planificación del calendario editorial
+- calendario editorial
+- revisión de fuentes
+- consistencia comunicativa
+- moderación editorial básica
+- lenguaje responsable y no estigmatizante
+- participación ciudadana
+- cultura de paz
+
+Respuesta:
+Un mini-sitio comunitario que consume una **API** permite centralizar y estructurar los datos en formato **JSON**, garantizando una **difusión
+ responsable** y libre de datos falsos mediante una rigurosa **revisión de fuentes**. Al integrar funciones con **async** y **await** junto al método 
+ **fetch**, la plataforma actualiza su contenido de forma dinámica y eficiente sin interrumpir la experiencia del usuario. En el aspecto técnico, 
+ la gestión del desarrollo a través de un **proyecto único en GitHub** fomenta la organización grupal; mientras la **rama main** 
+ conserva el código estable verificado por los coordinadores, cada colaborador trabaja de forma segura desde su **rama personal**. 
+ 
+ Esta estructura metodológica no solo asegura una estricta **moderación editorial básica** y una alta **consistencia comunicativa**,
+  sino que además impulsa la **participación ciudadana** estructurada, transformando la tecnología en una herramienta clave para la construcción de una **cultura de paz**.

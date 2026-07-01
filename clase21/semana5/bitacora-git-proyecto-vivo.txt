@@ -1,0 +1,61 @@
+Bitácora Git del proyecto vivo – Clase 21
+
+Nombre del estudiante: Arcindo Mosquera Moreno
+Fecha:30/06/2026
+Nombre de la rama: arcindo_mosquera
+
+1. Nombre del repositorio único de Semana 5:
+
+Respuesta: Mini sitio comunitario
+
+2. ¿Qué rama actualizan los docentes?
+
+Respuesta: main
+
+3. ¿Qué rama usa cada estudiante para trabajar?
+
+Respuesta: personal
+
+4. Comando usado para clonar el repositorio:
+
+Respuesta: git clone
+
+5. Comando usado para entrar a la carpeta del proyecto:
+
+Respuesta: cd
+
+6. Comando usado para crear tu rama personal:
+
+Respuesta: git checkout -b
+
+7. Comando usado para verificar la rama actual:
+
+Respuesta: git branch
+
+8. Comando que se usará desde la Clase 22 para traer cambios de main:
+
+Respuesta: git pull origin main
+/
+./ Explica con tus palabras qué significa fast-forward:
+
+Respuesta: significa que el repositori fue actualizado de manera correcta respecto alos cambios realizados en la rama principal
+
+10. ¿Por qué no se debe trabajar directamente en main?
+
+Respuesta: Porque es la rama principal donde se encuentra la información de las clases, realizar algun cambio dificulta el trabajo de los otros compañeros. 
+
+11. Comando usado para revisar cambios al final:
+
+Respuesta: git estatus
+
+12. Comando usado para agregar cambios:
+
+Respuesta:git add .
+
+13. Comando usado para crear commit:
+
+Respuesta: git commit -m
+
+14. Comando usado para publicar tu rama:
+
+Respuesta: git push -u origin

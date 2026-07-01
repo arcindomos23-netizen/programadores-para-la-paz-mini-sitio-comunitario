@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "titulo": "Verifica antes de compartir",
+      "mensaje": "Antes de reenviar información, revisa la fuente, confirma la fecha y evita mensajes alarmistas.",
+      "categoria": "prevencion-desinformacion",
+      "audiencia": "comunidad general",
+      "tono": "preventivo",
+      "llamadoAccion": "Consulta la fuente antes de compartir.",
+      "fuente": "Canal institucional comunitario",
+      "revisionEditorial": "aprobada"
+    },
+    {
+      "id": 2,
+      "titulo": "Participa con respeto",
+      "mensaje": "La participación digital fortalece la comunidad cuando usamos lenguaje claro, respetuoso y no estigmatizante.",
+      "categoria": "cultura-de-paz",
+      "audiencia": "jóvenes participantes",
+      "tono": "pedagogico",
+      "llamadoAccion": "Comparte tus ideas sin atacar a otras personas.",
+      "fuente": "Equipo de comunicaciones",
+      "revisionEditorial": "aprobada"
+    },
+    {
+      "id": 3,
+      "titulo": "Avisos comunitarios claros",
+      "mensaje": "Los avisos deben indicar propósito, fecha, fuente y acción esperada para evitar confusión.",
+      "categoria": "convivencia-digital",
+      "audiencia": "líderes comunitarios",
+      "tono": "informativo",
+      "llamadoAccion": "Publica avisos con información completa.",
+      "fuente": "Protocolo editorial del curso",
+      "revisionEditorial": "aprobada"
+    }
+  ]
+  
