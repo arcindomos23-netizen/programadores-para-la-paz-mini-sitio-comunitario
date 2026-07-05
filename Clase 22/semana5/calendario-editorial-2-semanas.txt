@@ -35,7 +35,7 @@ Pieza: Mensaje de convivencia digital
 Canal: Grupo comunitario
 Público objetivo: jóvenes participantes
 Propósito: Promover participación respetuosa en espacios digitales.
-Tono: pedagogico
+Tono: pedagógico
 Llamado a la acción: Participa con respeto y evita ataques personales.
 Fuente: Equipo de comunicaciones
 Responsable: Equipo de comunicaciones
@@ -44,7 +44,7 @@ Observaciones: Evitar lenguaje acusatorio o estigmatizante.
 Pieza 3
 
 Semana:1
-Día:Viernes
+Día: Viernes
 Fecha: Pendiente por definir
 Tema: Participación ciudadana
 Tipo de pieza: Convocatoria
@@ -61,7 +61,7 @@ Observaciones: Aclarar que las propuestas tendrán revisión editorial.
 Pieza 4
 
 Semana:2
-Día:Lunes
+Día: Lunes
 Fecha: Pendiente por definir
 Tema: Participación ciudadana
 Tipo de pieza: Convocatoria
@@ -86,7 +86,7 @@ Pieza: Recordatorio de lenguaje responsable
 Canal: Red comunitaria
 Público objetivo: jóvenes participantes
 Propósito: Reforzar criterios de lenguaje responsable y no estigmatizante.
-Tono: pedagogico
+Tono: pedagógico
 Llamado a la acción: Evita mensajes ofensivos o estigmatizantes.
 Fuente: Reglas editoriales mínimas
 Responsable: Docentes de comunicaciones

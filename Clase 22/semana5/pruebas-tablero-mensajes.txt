@@ -1,0 +1,78 @@
+Pruebas del tablero de mensajes – Clase 22
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Prueba 1: Abrir mini-sitio
+
+Dirección:
+http://localhost:3000
+
+Resultado esperado:
+El mini-sitio abre correctamente y muestra estructura visual con estilos.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:
+
+Prueba 2: Verificar hoja de estilos
+
+Archivo:
+public/styles.css
+
+Resultado esperado:
+La página muestra fondo, secciones, botones y tarjetas con estilos básicos.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:
+
+Prueba 3: Cargar mensajes
+
+Acción:
+Hacer clic en Cargar mensajes.
+
+Resultado esperado:
+Los mensajes aparecen como tarjetas legibles.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:
+
+Prueba 4: Revisar datos visibles
+
+Datos visibles esperados:
+título
+mensaje
+categoría
+audiencia
+tono
+llamado a la acción
+fuente
+
+Resultado observado:
+
+¿Aparecen datos innecesarios?
+Respuesta:
+
+Prueba 5: Cargar calendario
+
+Acción:
+Hacer clic en Cargar calendario.
+
+Resultado esperado:
+El calendario aparece como tarjetas con información resumida.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:
+
+Conclusión:
+¿Qué mejora visual ayudó más a entender la información comunitaria?
+
+Respuesta:

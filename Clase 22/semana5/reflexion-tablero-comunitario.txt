@@ -1,0 +1,37 @@
+Reflexión sobre tablero comunitario – Clase 22
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Escribe una reflexión de 8 a 10 líneas respondiendo:
+
+¿Por qué una comunidad necesita un tablero de mensajes claro, accesible y seguro visualmente?
+
+En tu respuesta menciona al menos cinco de estas ideas:
+
+- tablero de mensajes
+- vitrina comunitaria
+- accesibilidad mínima
+- legibilidad
+- jerarquía visual
+- seguridad visual
+- minimización de datos visibles
+- curaduría de información
+- lenguaje claro
+- lenguaje responsable y no estigmatizante
+- confianza comunitaria
+- participación ciudadana
+- cultura de paz
+
+Respuesta:Una comunidad necesita un tablero de mensajes estructurado porque este 
+funciona como una vitrina comunitaria esencial para mantener informados a los ciudadanos
+de manera organizada. Para que este espacio cumpla su objetivo, debe contar con criterios
+de accesibilidad mínima y una alta legibilidad, asegurando que cualquier miembro del
+entorno comprenda los avisos sin barreras técnicas ni visuales. Implementar una
+correcta jerarquía visual ayuda a destacar los datos urgentes, mientras que la seguridad visual
+y la minimización de datos visibles protegen la privacidad de los usuarios al ocultar observaciones 
+o comentarios de revisión interna. Asimismo, una estricta curaduría de información basada en un lenguaje
+claro y un lenguaje responsable y no estigmatizante previene el alarmismo y los prejuicios innecesarios.
+De esta forma, el sistema fortalece la confianza comunitaria, estimula activamente la participación 
+ciudadana e impulsa las bases para la co-creación de una verdadera cultura de paz.

@@ -1,0 +1,98 @@
+Guía práctica – Clase 22
+
+Actividad:
+Tablero de mensajes, accesibilidad, seguridad visual y minimización de datos.
+
+Repositorio:
+Repositorio dispuesto por el docente.
+
+Importante:
+Seguimos trabajando en el proyecto único de Semana 5.
+
+No debes trabajar directamente en main.
+
+Cada estudiante debe trabajar en su rama personal con el formato:
+
+nombres_apellidos
+
+Evidencia:
+La evidencia de esta actividad es únicamente el push de tu rama personal a GitHub.
+
+Pasos obligatorios:
+
+1. Entrar al proyecto
+
+cd programadores-para-la-paz-mini-sitio-comunitario
+
+2. Actualizar main local
+
+git checkout main
+git pull --ff-only origin main
+
+3. Volver a la rama personal
+
+git checkout nombres_apellidos
+
+4. Incorporar los cambios de main a la rama personal
+
+git merge main
+
+5. Verificar la rama actual
+
+git branch
+
+6. Instalar dependencias si hace falta
+
+npm install
+
+7. Levantar el mini-sitio
+
+npm run sitio
+
+8. Abrir en el navegador
+
+http://localhost:3000
+
+9. Probar botón Cargar mensajes
+
+10. Probar botón Cargar calendario
+
+11. Revisar archivo
+
+public/styles.css
+
+12. Revisar archivo
+
+public/index.html
+
+13. Revisar archivo
+
+public/app.js
+
+14. Modificar un texto visible del tablero en public/index.html
+
+15. Revisar qué datos se muestran y cuáles no se muestran en public/app.js
+
+16. Completar archivos:
+
+semana5/pruebas-tablero-mensajes.txt
+semana5/checklist-accesibilidad-seguridad-visual.txt
+semana5/curaduria-datos-visibles.txt
+semana5/reflexion-tablero-comunitario.txt
+semana5/bitacora-git-proyecto-vivo.txt
+
+17. Revisar cambios
+
+git status
+
+18. Agregar cambios
+
+git add .
+
+19. Crear commit
+
+git commit -m "Clase 22 tablero mensajes accesibilidad"
+
+20. Publicar rama
+
+git push
