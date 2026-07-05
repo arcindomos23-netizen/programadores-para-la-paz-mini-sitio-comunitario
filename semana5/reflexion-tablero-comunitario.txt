@@ -1,8 +1,8 @@
 Reflexión sobre tablero comunitario – Clase 22
 
-Nombre del estudiante: Arcindo Mosquera Moreno
-Fecha: 04/07/2026
-Nombre de la rama: arcindo_mosquera
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -25,11 +25,3 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
-Un tablero de mensajes claro y accesible es una herramienta indispensable para dinamizar la vida de un barrio.
-Para que cumpla su propósito, debe contar con una adecuada jerarquía visual que organice la información y
-garantice una accesibilidad mínima para todos los usuarios. Asimismo, la implementación de la seguridad visual
-mediante la minimización de datos visibles es crucial para proteger la privacidad y construir confianza comunitaria.
-Por otro lado, el uso de un lenguaje responsable y no estigmatizante promueve la sana convivencia y evita
-conflictos innecesarios en la plataforma. Gracias a una rigurosa curaduría de información, se asegura que los
-contenidos sean verídicos y pedagógicos. En conclusión, un diseño transparente no solo fomenta una participación ciudadana
-activa y consciente, sino que también sienta los pilares fundamentales para consolidar una verdadera cultura de paz.
