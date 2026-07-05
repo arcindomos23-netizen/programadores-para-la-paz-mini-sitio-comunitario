@@ -1,0 +1,76 @@
+Mapa del flujo Frontend-Backend – Clase 23
+
+Nombre del estudiante:Arcindo Mosquera Moreno
+Fecha:05/07/2026
+Nombre de la rama:arcindo-mosquera-moreno-api-propia
+
+Completa el flujo con tus palabras.
+
+1. Frontend
+
+¿Qué parte del proyecto corresponde al frontend?
+
+Respuesta: La interfaz gráfica con la que el usuario interactua.
+
+2. Backend
+
+¿Qué parte del proyecto corresponde al backend?
+
+Respuesta: Los códigos y servidor que hace que el proceasamiento sea lógico.
+exponer los endpoints de la API, leer los archivos del sistema y 
+enviar los datos estructurados cuando el frontend los solicita.
+
+3. API propia
+
+¿Qué rutas expone la API propia del proyecto?
+
+Respuesta:
+/api/mensajes
+/api/calendario
+/api/resumen
+
+4. Datos
+
+¿Qué archivos JSON usa el backend para responder?
+
+Respuesta:Utiliza los archivos locales de almacenamiento de datos en formato JSON
+
+5. Consulta desde frontend
+
+¿Qué función de JavaScript se usa para consultar la API?
+
+Respuesta: fetch.
+
+6. Espera de respuesta
+
+¿Qué palabras se usan para esperar la respuesta del servidor?
+
+Respuesta: await y async.
+
+7. Conversión de respuesta
+
+¿Qué hace respuesta.json()?
+
+Respuesta: Convierte la respuesta del servidor en un objeto JSON.
+
+8. Render dinámico
+
+¿Qué significa mostrar datos dinámicamente en el tablero?
+
+Respuesta:Significa que el contenido del tablero no está
+escrito a mano de forma fija en el HTML. En su lugar, 
+la interfaz se genera y se actualiza de forma automática 
+inyectando los elementos en el DOM con los datos reales que 
+se acaban de descargar desde la API.
+
+9. Prueba
+
+¿Cómo verificaste que la información del tablero coincide con la API?
+
+Respuesta:Interctuando con el programa.
+
+10. Propósito comunitario
+
+¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
+
+Respuesta: Facilita que el tablero se mantenga actualizado sin necesidad de editar el código HTML cada vez que cambia la información.

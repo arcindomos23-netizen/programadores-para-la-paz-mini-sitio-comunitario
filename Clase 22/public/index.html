@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mini-sitio comunitario</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
   <header>
     <h1>Mini-sitio comunitario</h1>
@@ -51,6 +53,18 @@
       </section>
     </div>
 
+    <section>
+      <h2>Resumen de la API propia</h2>
+      <p>
+        Esta sección muestra un resumen generado por el backend a partir de los datos del proyecto.
+      </p>
+      <button id="btnResumen">Cargar resumen</button>
+      <div id="SelectorResumen" class="contenedor-selector" style="display: none;"></div>
+      <div id="contenedorResumen" class="tablero">
+        Aquí aparecerá el resumen del proyecto.
+      </div>
+    </section>
+
     <section class="aviso-seguridad">
       <h2>Seguridad visual y minimización de datos</h2>
       <p>
@@ -62,4 +76,5 @@
 
   <script src="app.js"></script>
 </body>
+
 </html>

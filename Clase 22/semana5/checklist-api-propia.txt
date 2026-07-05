@@ -1,0 +1,73 @@
+Checklist de API propia – Clase 23
+
+Nombre del estudiante:Arcindo Mosquera Moreno
+Fecha:05/07/2026
+Nombre de la rama:arcindo-mosquera-moreno-api-propia
+
+Marca SÍ o NO y explica brevemente.
+
+1. Integración Frontend-Backend
+
+¿El frontend consulta información del backend?
+
+Respuesta:Si, al usar los botones que estan modelados para que el backend solicite los datos de forma dinámica.
+
+2. Consumo de la API propia
+
+¿La página usa rutas del mismo proyecto?
+
+Respuesta:Si, usa rutas del mismo proyecto.
+
+3. Mensajes dinámicos
+
+¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
+
+Respuesta:Sí. Aunque el HTML base sirve de contenedor, 
+la interfaz está preparada para renderizar dinámicamente 
+las piezas del tablero y del calendario una vez que se activa la consulta a la API.
+
+4. Ruta GET /api/mensajes
+
+¿La ruta responde correctamente?
+
+Respuesta:Si, lleava directamente a los mensajes.
+
+5. Ruta GET /api/calendario
+
+¿La ruta responde correctamente?
+
+Respuesta:Si, lleava directamente a las piezas del calendario.
+
+6. Ruta GET /api/resumen
+
+¿La ruta responde correctamente?
+
+Respuesta:si, muestra los mesanjes de resumen.
+
+7. Respuesta JSON
+
+¿Las rutas entregan datos estructurados?
+
+Respuesta:Sí, la ruta api/resumen entrega datos estructurados.
+
+8. Render dinámico
+
+¿El tablero muestra datos recibidos desde la API?
+
+Respuesta: Si, marca la informacion de forma dinamica.
+
+9. Diagnóstico básico
+
+¿Sabes qué revisar si no carga la información?
+
+Respuesta:
+1) Que el servidor backend esté corriendo en el puerto correcto (ej. localhost:3000).
+
+2)La consola del navegador (F12) en busca de errores de red o de CORS.
+
+3)Que los endpoints (/api/...) devuelvan el JSON esperado mediante herramientas de prueba o directamente en el navegador.
+10. Comunicación responsable
+
+¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
+
+Respuesta:Si.

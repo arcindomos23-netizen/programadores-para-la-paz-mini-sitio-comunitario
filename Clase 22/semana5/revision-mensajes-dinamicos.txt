@@ -1,0 +1,51 @@
+Revisión editorial de mensajes dinámicos – Clase 23
+
+Nombre del estudiante:Arcindo Mosquera Moreno
+Fecha:05/07/2026
+Nombre de la rama:arcindo_mosquera
+
+Selecciona un mensaje que aparezca en el tablero y responde.
+
+1. Título del mensaje seleccionado:
+
+Respuesta:
+
+2. ¿El mensaje se cargó dinámicamente desde la API?
+
+Respuesta:
+
+3. ¿El mensaje tiene propósito comunitario?
+
+Respuesta:
+
+4. ¿El mensaje tiene audiencia clara?
+
+Respuesta:
+
+5. ¿El tono es adecuado?
+
+Respuesta:
+
+6. ¿El llamado a la acción es comprensible?
+
+Respuesta:
+
+7. ¿El mensaje tiene fuente o criterio de verificación?
+
+Respuesta:
+
+8. ¿Mantiene consistencia comunicativa con los demás mensajes?
+
+Respuesta:
+
+9. ¿Requiere moderación editorial básica antes de publicarse?
+
+Respuesta:
+
+10. ¿Usa lenguaje responsable y no estigmatizante?
+
+Respuesta:
+
+11. Escribe una mejora editorial para el mensaje:
+
+Respuesta:

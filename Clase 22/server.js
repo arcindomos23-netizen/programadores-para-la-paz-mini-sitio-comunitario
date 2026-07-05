@@ -36,6 +36,27 @@ app.get("/api/calendario", (req, res) => {
   }
 })
 
+app.get("/api/resumen", (req, res) => {
+  try {
+    const mensajes = leerJson("data/mensajes.json")
+    const calendario = leerJson("data/calendario-editorial.json")
+
+    const resumen = {
+      totalMensajes: mensajes.length,
+      totalPiezasCalendario: calendario.length,
+      categoriasMensajes: mensajes.map((mensaje) => mensaje.categoria),
+      mensaje: "Resumen generado desde la API propia del proyecto comunitario."
+    }
+
+    res.json(resumen)
+  } catch (error) {
+    res.status(500).json({
+      mensaje: "No fue posible generar el resumen del proyecto.",
+      detalle: error.message
+    })
+  }
+})
+
 app.use((req, res) => {
   res.status(404).json({
     mensaje: "Ruta no encontrada. Revisa la dirección solicitada."
@@ -48,4 +69,6 @@ app.listen(puerto, () => {
   console.log("Rutas disponibles:")
   console.log("GET /api/mensajes")
   console.log("GET /api/calendario")
+  console.log("GET /api/resumen")
 })
+
