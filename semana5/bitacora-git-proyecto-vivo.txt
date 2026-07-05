@@ -1,61 +1,61 @@
 Bitácora Git del proyecto vivo – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Arcindo Mosquera Moreno
+Fecha: 04/07/2026
+Nombre de la rama: arcindo_mosquera
 
 1. Nombre del repositorio único de Semana 5:
 
-Respuesta:
+Respuesta:Mini-sitio-comunitario-ArcindoMosqueraMoreno
 
 2. ¿Qué rama actualizan los docentes?
 
-Respuesta:
+Respuesta:main
 
 3. ¿Qué rama usa cada estudiante para trabajar?
 
-Respuesta:
+Respuesta:arcindo_mosquera
 
 4. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta git clone <URL>
 
 5. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta:cd Mini-sitio-comunitario-ArcindoMosqueraMoreno
 
 6. Comando usado para crear tu rama personal:
 
-Respuesta:
+Respuesta: git checkout -b arcindo_mosquera
 
 7. Comando usado para verificar la rama actual:
 
-Respuesta:
+Respuesta:git status
 
 8. Comando que se usará desde la Clase 22 para traer cambios de main:
 
-Respuesta:
+Respuesta: git pull origin main
 
 9. Explica con tus palabras qué significa fast-forward:
 
-Respuesta:
+Respuesta: fast-forward significa que la rama arcindo_mosquera se ha actualizado con los cambios de la rama main
 
 10. ¿Por qué no se debe trabajar directamente en main?
 
-Respuesta:
+Respuesta: no se debe trabajar directamente en main porque main es la rama principal y no se debe modificar directamente
 
 11. Comando usado para revisar cambios al final:
 
-Respuesta:
+Respuesta: git status
 
 12. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta: git add .
 
 13. Comando usado para crear commit:
 
-Respuesta:
+Respuesta: git commit -m "cambios en el proyecto"
 
 14. Comando usado para publicar tu rama:
 
-Respuesta:
+Respuesta: git push origin arcindo_mosquera
