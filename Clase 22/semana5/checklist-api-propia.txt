@@ -2,7 +2,7 @@ Checklist de API propia – Clase 23
 
 Nombre del estudiante:Arcindo Mosquera Moreno
 Fecha:05/07/2026
-Nombre de la rama:arcindo-mosquera-moreno-api-propia
+Nombre de la rama:arcindo_mosquera
 
 Marca SÍ o NO y explica brevemente.
 

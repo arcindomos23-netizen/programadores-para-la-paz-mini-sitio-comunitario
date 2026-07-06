@@ -1,0 +1,64 @@
+Pruebas de login pedagógico – Clase 24
+
+Nombre del estudiante: Arcindo José Roa Salguero
+Fecha:05/07/2026
+Nombre de la rama: arcindo_mosquera
+
+Importante:
+Este login es solo pedagógico. No es autenticación real.
+
+Prueba 1: Abrir mini-sitio
+
+Dirección:
+http://localhost:3000
+
+Resultado observado: el sitio web se abre en http://localhost:3000
+
+¿Funcionó?
+Respuesta: Si
+
+Prueba 2: Login con credenciales de demostración
+
+Usuario:
+docente
+
+Clave:
+demo
+
+Resultado esperado:
+El servidor responde con mensaje de login pedagógico correcto.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:si, responde login correcto.
+
+Prueba 3: Login con clave incorrecta
+
+Usuario:
+docente
+
+Clave:
+incorrecta
+
+Resultado esperado:
+El servidor responde que usuario o clave son incorrectos.
+
+Resultado observado:Usuario o clave de demostración incorrectos
+
+¿Funcionó?
+Respuesta:si
+
+Prueba 4: Revisar almacenamiento del token de demostración
+
+¿Qué token de demostración devuelve el servidor?
+
+Respuesta:token-demostracion-clase-24
+
+5. ¿Por qué este token no debe confundirse con seguridad real?
+
+Respuesta:Es solo pedagógico y lo usa solo para propósitos de aprendizaje, no para seguridad real.
+
+6. ¿Para qué se usará este login en la Clase 25?
+
+Respuesta:Se usará para comprender cómo funcionaría un sistema de login, sin implementar seguridad real.

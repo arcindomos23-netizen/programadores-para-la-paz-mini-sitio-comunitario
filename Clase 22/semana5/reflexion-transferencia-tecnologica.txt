@@ -1,0 +1,37 @@
+Reflexión sobre transferencia tecnológica – Clase 24
+
+Nombre del estudiante: Arcindo José Roa Salguero
+Fecha:05/07/2026
+Nombre de la rama: arcindo_mosquera
+
+Escribe una reflexión de 8 a 10 líneas respondiendo:
+
+¿Por qué documentar un proyecto comunitario ayuda a la transparencia, la continuidad y la confianza?
+
+En tu respuesta menciona al menos cinco de estas ideas:
+
+- transferencia tecnológica
+- documentación como transparencia
+- README
+- claridad operativa
+- uso responsable de IA
+- apoyo verificable de IA
+- trazabilidad en Git
+- commits claros
+- no exposición de credenciales
+- no publicación de información sensible
+- confianza comunitaria
+- participación ciudadana
+- cultura de paz
+
+Respuesta:
+Documentar detalladamente un desarrollo social garantiza que la documentación como 
+transparencia sea el pilar que rinda cuentas ante los participantes de los procesos internos.
+Al estructurar un archivo README completo y mantener una rigurosa trazabilidad en Git mediante
+commits claros, se asegura la continuidad técnica y una excelente claridad operativa para futuros desarrolladores,
+facilitando una verdadera transferencia tecnológica. Asimismo, el diseño responsable exige la no exposición de
+credenciales ni la no publicación de información sensible, protegiendo la integridad y privacidad de la base
+de datos de los usuarios. Cuando el equipo se apoya en herramientas modernas bajo un uso responsable de IA y
+un apoyo verificable de IA, se agilizan los procesos de control de forma auditable. De este modo, la claridad en
+los repositorios consolida la confianza comunitaria, abre canales seguros para la participación ciudadana y
+promueve valores alineados con una auténtica cultura de paz.

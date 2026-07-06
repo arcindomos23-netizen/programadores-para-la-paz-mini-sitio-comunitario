@@ -1,0 +1,52 @@
+Registro de uso verificable de IA – Clase 24
+
+Nombre del estudiante: Arcindo Mosquera Moreno
+Fecha:05/07/2026
+Nombre de la rama: arcindo_mosquera
+
+Importante:
+La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
+
+No debes compartir con IA:
+- contraseñas reales
+- tokens reales
+- datos personales
+- información sensible de la comunidad
+- enlaces privados
+- credenciales de acceso
+
+1. ¿Para qué usaste IA en esta clase?
+Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
+
+Respuesta: para mejorar el codigo
+
+2. Escribe la pregunta que hiciste a la IA:
+
+Respuesta: ¿Cómo puedo mejorar el código de este proyecto?
+
+3. Resume la respuesta recibida:
+
+Respuesta: La respuesta de la IA fue detallada y útil. Me recomendó varias mejoras para el código, 
+como agregar comentarios, mejorar la legibilidad, optimizar el rendimiento y agregar validaciones.
+
+4. ¿Qué parte de la respuesta aplicaste?
+
+Respuesta: Apliqueu los comentarios en el codigo
+
+5. ¿Qué parte decidiste no aplicar?
+
+Respuesta: No aplique ponerle colores y otras cosas porque no me parecian importantes.
+
+6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
+
+Respuesta: Mediante ejecuciones locales.
+
+7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
+
+Respuesta: No
+
+8. ¿Qué aprendiste sobre uso responsable de IA?
+
+Respuesta: Aprendi que la IA es una herramienta muy util para mejorar el codigo y 
+organizar los pasos de ejecucion, pero que se debe usar de forma responsable y 
+verificar siempre las sugerencias en el proyecto real.
