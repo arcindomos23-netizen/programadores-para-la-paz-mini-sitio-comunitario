@@ -38,7 +38,6 @@ Este proyecto trabaja:
 
 ## Estructura del proyecto
 
-```text
 .
 ├── server.js
 ├── package.json
@@ -51,7 +50,9 @@ Este proyecto trabaja:
 │   └── styles.css
 ├── semana5/
 └── instrucciones/
-Instalación
+
+## Instalación
+
 Clonar el repositorio:
 git clone URL_DEL_REPOSITORIO
 Entrar al proyecto:
@@ -64,7 +65,9 @@ Ejecutar el proyecto:
 npm run sitio
 Abrir en el navegador:
 http://localhost:3000
-Rutas de la API
+
+## Rutas de la API
+
 GET /api/mensajes
 Entrega los mensajes comunitarios.
 GET /api/calendario
@@ -72,13 +75,17 @@ Entrega las piezas del calendario editorial.
 GET /api/resumen
 Entrega un resumen básico del proyecto.
 POST /api/login
-Ruta pedagógica de login.
+
+## Ruta pedagógica de login
+
 Importante:
 Esta ruta es solo para aprendizaje. No representa autenticación real ni debe usarse en producción.
 Credenciales de demostración:
 usuario: docente
 clave: demo
-Flujo de trabajo con Git
+
+## Flujo de trabajo con Git
+
 La rama main es actualizada por docentes.
 Cada estudiante trabaja en su rama personal:
 git checkout nombres_apellidos
@@ -92,7 +99,9 @@ git status
 git add .
 git commit -m "Mensaje claro del avance"
 git push
-Uso responsable de IA
+
+## Uso responsable de IA
+
 La IA puede ayudar a mejorar redacción, organizar pasos y aclarar errores.
 No se debe usar IA para publicar:
 credenciales reales
@@ -101,6 +110,17 @@ datos personales
 información sensible de la comunidad
 contenido sin verificar
 Toda sugerencia de IA debe revisarse y probarse antes de aceptarse.
-Evidencia
+
+## Evidencia
+
 La evidencia se registra únicamente con el push de la rama personal en GitHub.
 No se deben entregar capturas, archivos adicionales ni enlaces por Moodle.
+
+
+
+
+
+
+
+  
+

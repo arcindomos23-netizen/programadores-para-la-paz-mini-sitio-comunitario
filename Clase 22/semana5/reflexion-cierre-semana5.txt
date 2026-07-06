@@ -1,0 +1,55 @@
+Reflexión de cierre de Semana 5 – Clase 25
+
+Nombre del estudiante: Arcindo Mosquera Moreno
+Fecha: 05/07/2026
+Nombre de la rama: arcindo_mosquera
+
+Escribe una reflexión de 10 a 12 líneas respondiendo:
+
+¿Cómo cambió tu forma de trabajar desde las primeras clases hasta este proyecto único en GitHub?
+
+En tu respuesta menciona al menos ocho de estas ideas:
+
+- GitHub
+- repositorio
+- rama main
+- rama personal
+- git pull
+- fast-forward
+- git merge
+- commit
+- push
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- API
+- JSON
+- fetch
+- async
+- await
+- tablero de mensajes
+- calendario editorial
+- README
+- login pedagógico
+- middleware simple
+- difusión responsable
+- revisión de fuentes
+- consistencia comunicativa
+- moderación editorial básica
+- lenguaje responsable y no estigmatizante
+- participación ciudadana
+- cultura de paz
+
+Respuesta:
+Desde las primeras clases, mi forma de trabajar ha evolucionado drásticamente gracias al uso de un 
+repositorio en GitHub. Al principio, coordinar los cambios era un caos, pero aprender a integrar la 
+rama personal con la rama main mediante un git merge limpio —o un flujo fast-forward cuando era posible— 
+transformó por completo nuestra dinámica de equipo. Ahora, cada commit y push se realizan con total confianza, 
+asegurando que el código de HTML, CSS y JavaScript esté siempre sincronizado tras hacer un git pull. El 
+verdadero salto de calidad ocurrió al conectar el frontend con Node.js y Express, manejando respuestas en 
+formato JSON a través de una API propia. Implementar funciones con async y await junto a fetch nos permitió 
+crear un tablero de mensajes dinámico y fluido. Además, este proyecto único fortaleció mi compromiso con la 
+participación ciudadana y una cultura de paz, impulsándome a redactar un README claro, aplicar un login 
+pedagógico y asegurar un lenguaje responsable y no estigmatizante en cada línea de código.

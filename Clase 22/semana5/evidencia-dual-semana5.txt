@@ -1,0 +1,69 @@
+Evidencia dual de Semana 5 – Clase 25
+
+Nombre del estudiante: Arcindo Mosquera Moreno
+Fecha: 05/07/2026
+Nombre de la rama: arcindo_mosquera
+
+La evidencia dual de Semana 5 está compuesta por:
+
+1. Mini-sitio que consume API
+
+Describe brevemente qué hace el mini-sitio:
+
+Respuesta:Es un mini sitio que permite ver mensajes y eventos del calendario que provienen de una API. Permite ver un resumen de los mensajes y eventos.
+
+Rutas probadas:
+
+Respuesta: /api/mensajes, /api/calendario, /api/resumen
+
+2. README versionado en Git
+
+Explica qué información contiene el README:
+
+Respuesta:Explica el propósito del proyecto, cómo clonar e instalar dependencias, cómo ejecutar el proyecto, las rutas principales de la API, que el login es solo pedagógico, para qué sirve la ruta protegida de demostración, el flujo de ramas main y nombres_apellidos, que la evidencia es el push de la rama personal, que no deben publicarse credenciales reales ni información sensible y que permite que otra persona entienda y ejecute el proyecto.
+
+3. Calendario editorial de dos semanas
+
+Describe el tema general del calendario editorial:
+
+Respuesta: Prevención de la violencia y promoción de la convivencia ciudadana.
+
+Número de piezas:
+
+Respuesta:Seis.
+
+4. Difusión responsable
+
+¿Cómo garantiza el proyecto una difusión responsable?
+
+Respuesta:Verificar fuentes, uso de lenguaje respetuoso, Consistencia en la comunicación, uso responsable y moderado de los canales
+
+5. Revisión de fuentes
+
+¿Cómo se revisa o menciona la fuente de la información?
+
+Respuesta: En el calendario editorial se menciona la fuente de la información.
+
+6. Consistencia comunicativa
+
+¿Cómo se mantiene coherencia entre mensajes y piezas?
+
+Respuesta: Se mantiene coherencia entre mensajes y piezas a través de la consistencia en la comunicación y el uso responsable y moderado de los canales.
+
+7. Moderación editorial básica
+
+¿Qué criterios se deben revisar antes de publicar?
+
+Respuesta:Los criterios que se deben revisar antes de publicar son la verificación de fuentes, el uso de lenguaje respetuoso.
+
+8. GitHub y trazabilidad
+
+¿Qué commits o avances registraste durante la semana?
+
+Respuesta:Realicé los commits de la semana, manteniendo una organización clara y siguiendo el flujo de trabajo establecido.
+
+9. Conclusión personal
+
+¿Por qué este proyecto es más completo que un ejercicio técnico aislado?
+
+Respuesta:Este proyecto es más completo que un ejercicio técnico aislado porque integra la API con un front-end funcional, demuestra trazabilidad mediante Git y se enfoca en una aplicación con propósito social.

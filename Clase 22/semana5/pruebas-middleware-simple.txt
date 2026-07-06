@@ -1,0 +1,68 @@
+Pruebas de middleware simple – Clase 25
+
+Nombre del estudiante: Arcindo Mosquera Moreno
+Fecha: 05/07/2026
+Nombre de la rama: arcindo_mosquera
+
+Importante:
+Este middleware es pedagógico. No representa seguridad real de producción.
+
+Prueba 1: Ruta protegida sin login
+
+Acción:
+Abrir el mini-sitio y probar la revisión editorial protegida sin iniciar sesión.
+
+Resultado esperado:
+El sistema debe negar el acceso o indicar que falta token.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:Sí, el sistema negó el acceso.
+
+Prueba 2: Login pedagógico
+
+Usuario:
+docente
+
+Clave:
+demo
+
+Resultado esperado:
+El sistema responde login pedagógico correcto y guarda token de demostración.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:Sí, el sistema respondió login pedagógico correcto y guardó token de demostración.
+
+Prueba 3: Ruta protegida después del login
+
+Acción:
+Probar revisión editorial protegida después del login.
+
+Resultado esperado:
+El sistema permite ver la respuesta de revisión editorial pedagógica.
+
+Resultado observado:
+
+¿Funcionó?
+Respuesta:Sí, el sistema permite ver la respuesta de revisión editorial pedagógica.
+
+Prueba 4: Token incorrecto
+
+Explica qué debería pasar si el token no coincide con el esperado.
+
+Respuesta:Si el token no coincide con el esperado, el sistema debe negar el acceso o indicar que falta token.
+
+5. ¿Qué hace el middleware simple?
+
+Respuesta:El middleware simple verifica si existe un token de demostración válido antes de permitir el acceso a rutas protegidas.
+
+6. ¿Por qué este middleware no debe confundirse con seguridad real?
+
+Respuesta:Porque este middleware es solo para fines pedagógicos y no representa seguridad real de producción.
+
+7. ¿Qué aprendiste sobre rutas públicas y rutas protegidas?
+
+Respuesta: Aprendí que las rutas públicas son accesibles para todos los usuarios, mientras que las rutas protegidas requieren un token válido para acceder.
